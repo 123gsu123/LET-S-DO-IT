@@ -56,7 +56,7 @@ public class PlayerMove : MonoBehaviour
     [SerializeField]
     private float footR;
     [SerializeField]
-    private float footL;
+    private float footL;  
     [SerializeField]
     LayerMask checkLayer;
     [SerializeField]
@@ -273,7 +273,7 @@ public class PlayerMove : MonoBehaviour
             scanObject = null;
         }
 
-        RaycastHit2D left = Raycast(new Vector2(footL, 0), Vector2.down, rayDistance);
+        RaycastHit2D left = Raycast(new Vector2(footL,0 ), Vector2.down, rayDistance);
         RaycastHit2D right = Raycast(new Vector2(footR, 0), Vector2.down, rayDistance);
 
         if (left || right)
