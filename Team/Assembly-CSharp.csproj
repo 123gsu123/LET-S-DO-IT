@@ -113,124 +113,124 @@
     <Compile Include="Assets\Scripts\Player\PlayerMove.cs" />
     <Compile Include="Assets\Scripts\RestScipts\BackGroundScroll.cs" />
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Cinemachine">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Postprocessing.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.cinemachine.editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>R:/Git/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team-Let-s-do-it-6aa683891fed82983f2658760bf9dcc0cb4b5715/Team/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>R:/Git/Cyber/LET-S-DO-IT/Team/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>R:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
