@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Npc
+  - Damageble
+  - Enemy
+  - Player
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackDecoration
+    uniqueID: 3786777429
+    locked: 0
+  - name: DetBrick
+    uniqueID: 3260722677
+    locked: 0
+  - name: FrontDecoration
+    uniqueID: 3784783251
+    locked: 0
+  - name: Player
+    uniqueID: 722759521
+    locked: 0
+  - name: Enemy
+    uniqueID: 2789669749
+    locked: 0
+  - name: Ground
+    uniqueID: 1275484515
+    locked: 0
+  - name: GroundDecoration
+    uniqueID: 3903186943
+    locked: 0
+  - name: Effect
+    uniqueID: 1962325535
+    locked: 0
